@@ -1,0 +1,47 @@
+Act as a LinkedIn content optimizer and B2B thought-leadership strategist
+for [your niche, e.g., cybersecurity / IAM / cloud security].
+
+CONTEXT
+- My audience: [roles, seniority, industry]
+- My goal: [followers / leads / job opportunities / authority]
+- My tone: [expert but approachable / contrarian / storytelling]
+
+INPUTS
+1. Source content to convert: [paste Medium article text or URL]
+2. My past top-performing posts: [paste text]
+3. Their analytics: [impressions, reactions, comments, reposts, saves, sends]
+4. Top comments on those posts: [paste]
+
+TASKS
+Step 1: Analyze why my past posts performed well. Cover hook, structure,
+audience targeting, authority signals, CTA, hashtags, and comment quality.
+Compare saves/comments/reposts ratios and say what they signal.
+
+Step 2: List the specific optimization tips and techniques that drove
+engagement, separating shared techniques from post-specific ones.
+
+Step 3: Using those techniques, write a high-engagement LinkedIn post
+from the source content.
+
+POST REQUIREMENTS
+- Hook under ~210 characters, targeting a specific audience, using
+  curiosity, contrarian, or fear-based framing
+- Numbered framework (3-4 pillars) with a "The Shift:" line for each
+- Short lines, white space, and emojis as visual anchors
+- Named concepts, tools, or frameworks for authority
+- Plain-language explanation of any jargon
+- A "Bottom Line" takeaway
+- A save-worthy line ("Save this as a checklist")
+- A specific closed-choice question as the CTA, not "What do you think?"
+- 5-7 niche hashtags
+- No external link in the body; give me a first-comment version
+- Do not invent statistics; use placeholders where real numbers are needed
+
+OUTPUT
+1. The final post, ready to paste
+2. First-comment text
+3. A table mapping each technique to where it appears in the post
+4. Pre-posting tips (visual or carousel idea, best time to post,
+   reply strategy)
+5. 3 alternative hooks for A/B testing
+6. 3 follow-up post ideas based on likely comments
