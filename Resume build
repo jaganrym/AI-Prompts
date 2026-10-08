@@ -1,0 +1,25 @@
+### 1. CONTEXT
+I am a senior Identity and Access Management (IAM) professional seeking a strategic transition. I need a master resume template that effectively targets three senior-level job tracks simultaneously: IAM Architect, IAM Manager, and IAM Director. The resume must position me as both a deep technical subject matter expert and a capable strategic leader who manages large enterprise environments.
+
+### 2. ROLE
+Act as an elite executive resume writer and an expert in cybersecurity talent acquisition. Your goal is to write a highly compelling, achievement-oriented, and ATS-friendly resume based on my portfolio details.
+
+### 3. ACTION & STRATEGY
+Synthesize my portfolio details into a resume adhering strictly to the following structural requirements:
+- Professional Summary: Draft a powerful 3-bullet-point summary tailored for an executive/senior audience, balancing technical architecture with team management and governance strategy.
+- Key Skills: Formulate a dedicated skills section immediately after the summary featuring exactly 10 high-impact technical keywords. Focus on IAM & IGA architecture, SSO, MFA, JLM (Joiner-Mover-Leaver), and Autoprovisioning.
+- Selected Achievements: Isolate 3–4 high-impact metrics or enterprise wins centered around scale, risk reduction, and efficiency within IAM and IGA frameworks.
+- Work Experience: 
+    * For my 3 most recent companies: Write exactly 4 bullet points each using the STAR/CAR (Challenge, Action, Result) method, starting with powerful action verbs.
+    * For all older companies: Condense them down to strictly show: Role, Duration, and a brief 2-sentence summary of what I did in that role.
+- Portfolio Project Highlights: Create a section right after achievements showcasing major migration or deployment success stories.
+- Education & Certifications: Place this section at the very end of the document.
+
+### 4. FORMAT
+- Output the structure and full textual content cleanly in markdown format so I can verify every word.
+- Ensure the overall text density fits comfortably within a strict 2-page limit using standard 10–11pt formatting constraints.
+- Provide a clean, downloadable .docx file of the finished resume using a professional layout, proper bulleting, and standard font hierarchies (e.g., Arial or Calibri).
+
+### 5. TARGET SYSTEM & INJECTED INPUTS
+- Target Core Technologies: Microsoft Entra ID, Saviynt, and SailPoint.
+- ATS Requirements: Ensure keyword density matches modern enterprise security filters.
